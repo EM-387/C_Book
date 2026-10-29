@@ -2,7 +2,7 @@
 Code and notes related to the «[C programming](https://en.wikibooks.org/wiki/C_programming)» book on Wikibooks.
 
 
-# Question prompts
+# Exercise prompts
 In case you don't want to visit the Wikibook page, I'll list bellow the exercises
 ### String manipulation
 1.) Write a program that prompts the user for a string (pick a maximum length), and prints its reverse.
