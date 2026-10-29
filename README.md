@@ -12,3 +12,5 @@ In case you don't want to visit the Wikibook page, I'll list bellow the exercise
 1.) Write a function that outputs a right isosceles triangle of height and width n.
 
 2.) Write a function that outputs a sideways triangle of height 2n-1 and width n.
+
+3.) Write a function that outputs a right-side-up triangle of height n and width 2n-1.
