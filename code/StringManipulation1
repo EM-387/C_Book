@@ -16,7 +16,7 @@ int main()
 	scanf("%[^\n]s", string_input);
 
 	for(int i=character_limit-1; i!=-1; i--) {
-	    if(string_input[i] >= 0){
+	    if(string_input[i] > 0){ // This if statement gets rid of null characters
 	        printf("%c", string_input[i]);
 	    }
 	}
