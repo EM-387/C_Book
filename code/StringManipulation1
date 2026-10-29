@@ -6,7 +6,7 @@ int main()
     char string_input[character_limit];
     
     printf("Type your word (maximum length of %i characters):", character_limit+1);
-    scanf("%s", &string_input);
+    scanf("%s", string_input);
     
     for(int i=character_limit; i!=-1; i--){
         printf("%c", string_input[i]);
