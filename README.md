@@ -19,4 +19,4 @@ In case you don't want to visit the Wikibook page, I'll list bellow the exercise
 
 2.) Now make a while loop in main with the function calls inside it. Ask for input at the beginning of the loop. End the while loop if the user hits Q.
 
-
+3.) Next add conditionals to call the functions when the user enters numbers, so 1 goes to function1, 2 goes to function 2, etc.
