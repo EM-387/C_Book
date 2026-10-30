@@ -1,3 +1,6 @@
+/* Edited off from ProgramFlow1 since
+it had basically everything needed */
+
 #include <stdio.h>
 
 /* The functions are of void type just so I could remove
